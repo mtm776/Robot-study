@@ -7,5 +7,4 @@
 | 1 | [LiDAR와 로봇의 좌표계](docs/01-coordinate-frames.md) | 회전 행렬, 평행이동, 역변환 |
 | 2 | [타임스탬프와 스캔 왜곡 보정](docs/02-time-sync-and-deskew.md) | 측정 시각, 보간, 자이로 적분, deskew |
 | 3 | [센서의 노이즈·이상치·편향](docs/03-sensor-noise.md) | 정지 실험, 평균과 중앙값, 각도 적분에 미치는 영향 |
-
-다음 장에서는 이동평균과 중앙값 필터를 같은 입력에 적용해 흔들림과 응답 지연을 비교합니다.
+| 4 | [이동평균과 중앙값 필터](docs/04-moving-average-and-median.md) | 이상치, 실제 회전의 시작, 필터 지연 |
