@@ -4,6 +4,7 @@
 
 | 장 | 주제 | 다루는 내용 |
 |---|---|---|
+| 0 | [IMU와 2D LiDAR의 측정값](docs/00-sensor-measurements.md) | ROS 2 메시지, 단위, 자이로 샘플과 LiDAR 광선 읽기 |
 | 1 | [LiDAR와 로봇의 좌표계](docs/01-coordinate-frames.md) | 회전 행렬, 평행이동, 역변환 |
 | 2 | [타임스탬프와 스캔 왜곡 보정](docs/02-time-sync-and-deskew.md) | 측정 시각, 보간, 자이로 적분, deskew |
 | 3 | [센서의 노이즈·이상치·편향](docs/03-sensor-noise.md) | 정지 실험, 평균과 중앙값, 각도 적분에 미치는 영향 |
